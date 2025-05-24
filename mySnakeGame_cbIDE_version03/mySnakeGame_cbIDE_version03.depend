@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1748059730 source:d:\cplusplus\mysnakegame_cbide_version03\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdint>
+	"myLib.h"
+
+1746980983 d:\cplusplus\mysnakegame_cbide_version03\mylib.h
+	<stdio.h>
+	<conio.h>
+	<ctime>
+	"windows.h"
+
+1747452352 d:\cplusplus\mysnakegame_cbide_version03\walldrawprocess.h
+	"myLib.h"
+	<iostream>
+
